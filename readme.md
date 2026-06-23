@@ -19,10 +19,8 @@
       🎓 <b>Formação:</b> Graduado em Análise e Desenvolvimento de Sistemas (ADS).<br><br>
       🚀 <b>Foco Atual:</b> Me especializando em desenvolvimento Full Stack pela Rocketseat, aprofundando em React e ecossistema JavaScript.<br><br>
       💼 <b>Objetivo:</b> Em busca da minha primeira oportunidade como Desenvolvedor Júnior para aplicar meus conhecimentos práticos e evoluir em equipe.<br><br>
-      ⚡ <b>Fato curioso:</b> Gosto de programar ouvindo música com meu setup configurado no VS Code com o tema escuro e a fonte JetBrains Mono.
     </td>
     <td width="40%" valign="top">
-      <!-- Imagem decorativa ilustrativa (estilo pixel art como o da imagem de exemplo) -->
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5YmN0ZXp0cm90dHBrYmI3Z3N6b3N6bHlycmh6OHg4b3N6bHlyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer Gif" />
     </td>
   </tr>
